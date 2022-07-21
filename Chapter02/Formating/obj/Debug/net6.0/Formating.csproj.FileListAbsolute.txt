@@ -1,0 +1,15 @@
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\bin\Debug\net6.0\Formating.exe
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\bin\Debug\net6.0\Formating.deps.json
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\bin\Debug\net6.0\Formating.runtimeconfig.json
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\bin\Debug\net6.0\Formating.dll
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\bin\Debug\net6.0\Formating.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\Formating.csproj.AssemblyReference.cache
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\Formating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\Formating.AssemblyInfoInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\Formating.AssemblyInfo.cs
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\Formating.csproj.CoreCompileInputs.cache
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\Formating.dll
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\refint\Formating.dll
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\Formating.pdb
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\Formating.genruntimeconfig.cache
+C:\Users\Trajkovski\Documents\Full stack Development\CSharpAndDotNet\Chapter02\Formating\obj\Debug\net6.0\ref\Formating.dll

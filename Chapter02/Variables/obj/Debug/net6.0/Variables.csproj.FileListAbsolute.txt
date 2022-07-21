@@ -1,0 +1,5 @@
+C:\Users\Trajkovski\source\repos\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+C:\Users\Trajkovski\source\repos\Chapter02\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trajkovski\source\repos\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Trajkovski\source\repos\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+C:\Users\Trajkovski\source\repos\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
